@@ -16,6 +16,9 @@ EnrichM is a set of comparative genomics tools for large sets of metagenome asse
 
 EnrichM is under active development, so there is no guaratee that master is stable. It's recommended that EnrichM is downloaded either via pypi or conda (see below).
 
+# Database
+https://data.ace.uq.edu.au/public/enrichm/
+
 # Installation
 ## Dependencies
 EnrichM is written in python 3, and required >v3.6 to run. EnrichM requires the following non-python dependencies:
